@@ -83,7 +83,7 @@ int main()
     return 0;
 }
 
-// data types 
+// data types
 //  |---------------------------|------------------|----------------------|
 //  |         data type         |      size        |    format specifier  |
 //  |---------------------------|------------------|----------------------|
@@ -111,6 +111,9 @@ int main()
 //  |---------------------------|------------------|----------------------|
 //  |         void              |      0 bytes     |          %d          |
 //  |---------------------------|------------------|----------------------|
+//  |       long double         |      10 bytes    |          %Lf         |
+//  |---------------------------|------------------|----------------------|
+
 
 // integer data types : the integer data types are used to store the integer value
 // 1. int : the int data type is used to store the integer value
@@ -151,5 +154,3 @@ int main()
 
 // 10. variable name should not be the same with the library name
 //  example : int stdio = 20; // this is wrong
-
-
