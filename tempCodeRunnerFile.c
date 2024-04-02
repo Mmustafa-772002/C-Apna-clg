@@ -1,1 +1,1 @@
-printf("The value of i is %lld\n", p);
+point
