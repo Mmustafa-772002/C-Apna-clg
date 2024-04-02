@@ -5,7 +5,6 @@
 // Single-line comments: These are created using two forward slashes (//) followed by the comment text. Everything after the // on that line is considered a comment and will be ignored by the compiler.
 // Multi-line comments: These are created using a forward slash followed by an asterisk (/*) at the beginning of the comment, and an asterisk followed by a forward slash (*/) at the end. Anything in between these two markers is considered a comment, and this form can span multiple lines.
 
-// structure :
 // compilation : compilation is the process in which the source code is converted into the machine code that is the executable code that is the code that is executed by the computer the compilation is done by the compiler that is the software that is used to convert the source code into the machine code the compilation is done in the following steps
 
 // 1. Preprocessing: This is the first step in the compilation process. In this step, the preprocessor directives are processed. The preprocessor directives are the commands that start with a # symbol. The preprocessor directives are used to include header files, define macros, and perform other tasks. The preprocessor directives are processed by the preprocessor, which is a part of the compiler. The preprocessor directives are processed before the actual compilation of the source code.
@@ -39,6 +38,117 @@
 // input : the input in the c programming is the data that is given by the user that can be stored in the container that is the variable that is used to store the data the input can be taken by the user in the following ways
 
 // the c programming have function to take the input from the user that is the scanf() function that is used to take the input from the user the scanf() function is used to take the input from the user in the following way
+
+//  some math formulas that are used in the c programming
+
+// 1. Area of the square: The area of a square is given by the formula A = side * side, where A is the area and side is the length of a side of the square.
+// formula : A = side * side
+
+// 2. Area of the rectangle: The area of a rectangle is given by the formula A = length * breadth, where A is the area, length is the length of the rectangle, and breadth is the breadth of the rectangle.
+// formula : A = length * breadth
+
+// 3. Area of the circle: The area of a circle is given by the formula A = π * r * r, where A is the area, π is a constant approximately equal to 3.14159, and r is the radius of the circle.
+// formula : A = π * r * r
+
+// 4. Area of the triangle: The area of a triangle is given by the formula A = 0.5 * base * height, where A is the area, base is the base of the triangle, and height is the height of the triangle.
+// formula : A = 0.5 * base * height
+
+// 5. Area of the trapezium: The area of a trapezium is given by the formula A = 0.5 * (a + b) * h, where A is the area, a and b are the lengths of the parallel sides of the trapezium, and h is the height of the trapezium.
+// formula : A = 0.5 * (a + b) * h
+
+// 6. Perimeter of the trapezium: The perimeter of a trapezium is given by the formula P = a + b + 2 * h, where P is the perimeter, a and b are the lengths of the parallel sides of the trapezium, and h is the height of the trapezium.
+// formula : P = a + b + 2 * h
+
+// 7. Addition of two numbers: The sum of two numbers is given by the formula sum = a + b, where sum is the sum of the two numbers, and a and b are the two numbers.
+// formula : sum = a + b
+
+// 8. Subtraction of two numbers: The difference of two numbers is given by the formula sub = a - b, where sub is the difference of the two numbers, and a and b are the two numbers.
+// formula : sub = a - b
+
+// 9. Multiplication of two numbers: The product of two numbers is given by the formula mul = a * b, where mul is the product of the two numbers, and a and b are the two numbers.
+// formula : mul = a * b
+
+// 10. Division of two numbers: The division of two numbers is given by the formula div = a / b, where div is the division of the two numbers, and a and b are the two numbers.
+// formula : div = a / b
+
+// 11. Remainder of two numbers: The remainder of two numbers is given by the formula rem = a % b, where rem is the remainder of the two numbers, and a and b are the two numbers.
+// formula : rem = a % b
+
+// 12. Power of a number: The power of a number is given by the formula power = pow(a, b), where power is the power of the number a raised to the power b, and a and b are the two numbers.
+// formula : power = pow(a, b)
+
+// 13. Square root of a number: The square root of a number is given by the formula sqrt = sqrt(a), where sqrt is the square root of the number a, and a is the number.
+// formula : sqrt = sqrt(a)
+
+// 14. Simple interest: The simple interest is given by the formula si = (p * r * t) / 100, where si is the simple interest, p is the principal amount, r is the rate of interest, and t is the time period.
+// formula : si = (p * r * t) / 100
+
+// 15. Compound interest: The compound interest is given by the formula ci = p * (1 + r / 100) ^ t - p, where ci is the compound interest, p is the principal amount, r is the rate of interest, and t is the time period.
+// formula : ci = p * (1 + r / 100) ^ t - p
+
+// 16. Fahrenheit to Celsius: The conversion of Fahrenheit to Celsius is given by the formula celsius = (fahrenheit - 32) * 5 / 9, where celsius is the temperature in Celsius, and fahrenheit is the temperature in Fahrenheit.
+// formula : celsius = (fahrenheit - 32) * 5 / 9
+
+// 17. Celsius to Fahrenheit: The conversion of Celsius to Fahrenheit is given by the formula fahrenheit = (celsius * 9 / 5) + 32, where fahrenheit is the temperature in Fahrenheit, and celsius is the temperature in Celsius.
+// formula : fahrenheit = (celsius * 9 / 5) + 32
+
+// 18. Kilometers to Miles: The conversion of kilometers to miles is given by the formula miles = kilometers * 0.621371, where miles is the distance in miles, and kilometers is the distance in kilometers.
+// formula : miles = kilometers * 0.621371
+
+// 19. Miles to Kilometers: The conversion of miles to kilometers is given by the formula kilometers = miles / 0.621371, where kilometers is the distance in kilometers, and miles is the distance in miles.
+// formula : kilometers = miles / 0.621371
+
+// list of the programs that are used in the c programming
+// 1. hello world program
+// 2. addition program
+// 3. subtraction program
+// 4. multiplication program
+// 5. division program
+// 6. remainder program
+// 7. power program
+// 8. square root program
+// 9. simple interest program
+// 10. compound interest program
+// 11. fahrenheit to celsius program
+// 12. celsius to fahrenheit program
+// 13. kilometers to miles program
+// 14. miles to kilometers program
+// 15. area of the square program
+// 16. area of the rectangle program
+// 17. area of the circle program
+// 18. area of the triangle program
+// 19. area of the trapezium program
+// 20. perimeter of the trapezium program
+// 21. even odd program
+// 22. prime number program
+// 23. palindrome number program
+// 24. armstrong number program
+// 25. fibonacci series program
+// 26. factorial program
+// 27. sum of digits program
+// 28. reverse of the number program
+// 29. swap two numbers program
+// 30. largest of the two numbers program
+// 31. largest of the three numbers program
+// 32. positive negative program
+// 33. leap year program
+// 34. vowel consonant program
+// 35. alphabet program
+// 36. ascii value program
+// 37. lower upper program
+// 38. multiplication table program
+// 39. sum of natural numbers program
+// 40. sum of n natural numbers program
+// 41. sum of the digits of the number program
+// 42. reverse of the string program
+// 43. palindrome string program
+// 44. factorial of the number program
+// 45. prime number in the range program
+// 46. armstrong number in the range program
+// 47. fibonacci series program
+// 48. sum of the series program
+// 49. lcm of the two numbers program
+// 50. hcf of the two numbers program
 
 // q - write a program to calculate area of square
 #include <stdio.h>
@@ -217,7 +327,7 @@ int main()
     float sqrt;
     printf("enter the number :");
     scanf("%d", &a);
-    sqrt = pow(a,0.5);
+    sqrt = pow(a, 0.5);
     printf(" the square root of the number is : %f", sqrt);
     return 0;
 }
@@ -280,117 +390,6 @@ int main()
 
     return 0;
 }
-
-//  some math formulas that are used in the c programming
-
-// 1. Area of the square: The area of a square is given by the formula A = side * side, where A is the area and side is the length of a side of the square.
-// formula : A = side * side
-
-// 2. Area of the rectangle: The area of a rectangle is given by the formula A = length * breadth, where A is the area, length is the length of the rectangle, and breadth is the breadth of the rectangle.
-// formula : A = length * breadth
-
-// 3. Area of the circle: The area of a circle is given by the formula A = π * r * r, where A is the area, π is a constant approximately equal to 3.14159, and r is the radius of the circle.
-// formula : A = π * r * r
-
-// 4. Area of the triangle: The area of a triangle is given by the formula A = 0.5 * base * height, where A is the area, base is the base of the triangle, and height is the height of the triangle.
-// formula : A = 0.5 * base * height
-
-// 5. Area of the trapezium: The area of a trapezium is given by the formula A = 0.5 * (a + b) * h, where A is the area, a and b are the lengths of the parallel sides of the trapezium, and h is the height of the trapezium.
-// formula : A = 0.5 * (a + b) * h
-
-// 6. Perimeter of the trapezium: The perimeter of a trapezium is given by the formula P = a + b + 2 * h, where P is the perimeter, a and b are the lengths of the parallel sides of the trapezium, and h is the height of the trapezium.
-// formula : P = a + b + 2 * h
-
-// 7. Addition of two numbers: The sum of two numbers is given by the formula sum = a + b, where sum is the sum of the two numbers, and a and b are the two numbers.
-// formula : sum = a + b
-
-// 8. Subtraction of two numbers: The difference of two numbers is given by the formula sub = a - b, where sub is the difference of the two numbers, and a and b are the two numbers.
-// formula : sub = a - b
-
-// 9. Multiplication of two numbers: The product of two numbers is given by the formula mul = a * b, where mul is the product of the two numbers, and a and b are the two numbers.
-// formula : mul = a * b
-
-// 10. Division of two numbers: The division of two numbers is given by the formula div = a / b, where div is the division of the two numbers, and a and b are the two numbers.
-// formula : div = a / b
-
-// 11. Remainder of two numbers: The remainder of two numbers is given by the formula rem = a % b, where rem is the remainder of the two numbers, and a and b are the two numbers.
-// formula : rem = a % b
-
-// 12. Power of a number: The power of a number is given by the formula power = pow(a, b), where power is the power of the number a raised to the power b, and a and b are the two numbers.
-// formula : power = pow(a, b)
-
-// 13. Square root of a number: The square root of a number is given by the formula sqrt = sqrt(a), where sqrt is the square root of the number a, and a is the number.
-// formula : sqrt = sqrt(a)
-
-// 14. Simple interest: The simple interest is given by the formula si = (p * r * t) / 100, where si is the simple interest, p is the principal amount, r is the rate of interest, and t is the time period.
-// formula : si = (p * r * t) / 100
-
-// 15. Compound interest: The compound interest is given by the formula ci = p * (1 + r / 100) ^ t - p, where ci is the compound interest, p is the principal amount, r is the rate of interest, and t is the time period.
-// formula : ci = p * (1 + r / 100) ^ t - p
-
-// 16. Fahrenheit to Celsius: The conversion of Fahrenheit to Celsius is given by the formula celsius = (fahrenheit - 32) * 5 / 9, where celsius is the temperature in Celsius, and fahrenheit is the temperature in Fahrenheit.
-// formula : celsius = (fahrenheit - 32) * 5 / 9
-
-// 17. Celsius to Fahrenheit: The conversion of Celsius to Fahrenheit is given by the formula fahrenheit = (celsius * 9 / 5) + 32, where fahrenheit is the temperature in Fahrenheit, and celsius is the temperature in Celsius.
-// formula : fahrenheit = (celsius * 9 / 5) + 32
-
-// 18. Kilometers to Miles: The conversion of kilometers to miles is given by the formula miles = kilometers * 0.621371, where miles is the distance in miles, and kilometers is the distance in kilometers.
-// formula : miles = kilometers * 0.621371
-
-// 19. Miles to Kilometers: The conversion of miles to kilometers is given by the formula kilometers = miles / 0.621371, where kilometers is the distance in kilometers, and miles is the distance in miles.
-// formula : kilometers = miles / 0.621371
-
-// list of the programs that are used in the c programming
-// 1. hello world program
-// 2. addition program
-// 3. subtraction program
-// 4. multiplication program
-// 5. division program
-// 6. remainder program
-// 7. power program
-// 8. square root program
-// 9. simple interest program
-// 10. compound interest program
-// 11. fahrenheit to celsius program
-// 12. celsius to fahrenheit program
-// 13. kilometers to miles program
-// 14. miles to kilometers program
-// 15. area of the square program
-// 16. area of the rectangle program
-// 17. area of the circle program
-// 18. area of the triangle program
-// 19. area of the trapezium program
-// 20. perimeter of the trapezium program
-// 21. even odd program
-// 22. prime number program
-// 23. palindrome number program
-// 24. armstrong number program
-// 25. fibonacci series program
-// 26. factorial program
-// 27. sum of digits program
-// 28. reverse of the number program
-// 29. swap two numbers program
-// 30. largest of the two numbers program
-// 31. largest of the three numbers program
-// 32. positive negative program
-// 33. leap year program
-// 34. vowel consonant program
-// 35. alphabet program
-// 36. ascii value program
-// 37. lower upper program
-// 38. multiplication table program
-// 39. sum of natural numbers program
-// 40. sum of n natural numbers program
-// 41. sum of the digits of the number program
-// 42. reverse of the string program
-// 43. palindrome string program
-// 44. factorial of the number program
-// 45. prime number in the range program
-// 46. armstrong number in the range program
-// 47. fibonacci series program
-// 48. sum of the series program
-// 49. lcm of the two numbers program
-// 50. hcf of the two numbers program
 
 // even odd program
 #include <stdio.h>
@@ -1007,6 +1006,9 @@ void lcmOfTwoNumbersProgram()
     printf("The LCM of %d and %d is %d\n", num1, num2, result);
 }
 // 50. HCF of the two numbers program
+
+#include <stdio.h>
+
 int hcf(int a, int b)
 {
     if (b == 0)
@@ -1027,4 +1029,9 @@ void hcfOfTwoNumbersProgram()
 
     int result = hcf(num1, num2);
     printf("The HCF of %d and %d is %d\n", num1, num2, result);
+}
+int main()
+{
+    hcfOfTwoNumbersProgram();
+    return 0;
 }
