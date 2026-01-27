@@ -6,7 +6,11 @@
 * C is widely used for system programming, embedded systems, and developing operating systems.
 * C is known for its efficiency, low-level memory manipulation capabilities, and portability across different platforms.
 * C is the foundation for many other programming languages, including C++, Java, and Python.
-
+* Operating systems, such as parts of Windows, Linux, and macOS
+* Programs inside devices like cars, TVs, and home electronics
+* Software that needs to be fast, including databases and system tools
+* Game engines and programs that handle graphics
+* Core libraries that other programming languages rely on
 -------------------------------------------------------------
 - to create a C program follow the below steps 
 1.open any text editor 
@@ -39,10 +43,16 @@ gcc hello_world.c
 */
 
 #include<stdio.h>
+// this is the a preprocessor directive in the c programming language.
+// this is the header of the c programming language
 int main()
+// main () is function  The name of the function. In these languages, main is a reserved name that the system looks for to start the program. 
 {
 
+    printf("Hello World!");
+printf("Have a good day!");
+return 0;
+    // printf() is a standard library function in C programming language used to print the output on the screen. 
 
-    printf("hello world");
     return 0;
 }
