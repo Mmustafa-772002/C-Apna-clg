@@ -1,6 +1,6 @@
-/* 
-- Chapter 1 
-- Introduction to C programming language 
+/*
+- Chapter 1
+- Introduction to C programming language
 * C is a general-purpose programming language developed by Dennis Ritchie at Bell Labs in the early 1970s.
 * C is a procedural programming language that follows a structured approach to programming.
 * C is widely used for system programming, embedded systems, and developing operating systems.
@@ -12,8 +12,8 @@
 * Game engines and programs that handle graphics
 * Core libraries that other programming languages rely on
 -------------------------------------------------------------
-- to create a C program follow the below steps 
-1.open any text editor 
+- to create a C program follow the below steps
+1.open any text editor
 2.write the c progam code in the text editor
 3. save the file with extension with .c (eg: hello_world.c)
 4. open the rterminal and navigate to the directory where the source file is present
@@ -28,7 +28,7 @@ cmd to print the hello world on the screen
 gcc  <program_name.c> -o <output_file_name>
 and the output file will be created in the same directory where the source file is present.
 then run the output file using below command
-./<output_file_name.exe> 
+./<output_file_name.exe>
 
 The exe file is the exexutable file in which the machine code is present in which is understandable by the computer.
 
@@ -42,17 +42,17 @@ gcc hello_world.c
 
 */
 
-#include<stdio.h>
+#include <stdio.h>
 // this is the a preprocessor directive in the c programming language.
 // this is the header of the c programming language
 int main()
-// main () is function  The name of the function. In these languages, main is a reserved name that the system looks for to start the program. 
+// main () is function  The name of the function. In these languages, main is a reserved name that the system looks for to start the program.
 {
 
     printf("Hello World!");
-printf("Have a good day!");
-return 0;
-    // printf() is a standard library function in C programming language used to print the output on the screen. 
+    printf("Have a good day!");
+    return 0;
+    // printf() is a standard library function in C programming language used to print the output on the screen.
 
     return 0;
 }
