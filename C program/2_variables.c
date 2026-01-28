@@ -94,58 +94,6 @@ Example: int age; int Age;  // two different variables
 Example: int int; float float; return return;  // invalid variable names
 
 
-Total reserved keywords in C programming language are 32.
-int , float, char, double, return, if, else, switch, case, for, while, do, break, continue, void, static, const, sizeof, struct, union, enum, typedef, extern, register, volatile, signed, unsigned, long, short, default, goto 
-
-
-|-----|------------|-------------------|--------|
-| no. | keyword    | Description       | define |
-|-----|------------|-------------------|--------|
-| 1   | int        | integer type      |  %d    |
-| 2   | float      | floating-point    |  %f    |
-| 3   | char       | character type    |  %c    |
-| 4   | double     | double-precision  |  %lf   |
-| 5   | return     | return from func  |        |
-| 6   | if         | conditional stmt  |        |
-| 7   | else       | alternative stmt  |        |
-| 8   | switch     | multi-way branch  |        |
-| 9   | case       | case in switch    |        |
-|10   | for        | for loop          |        |
-|11   | while      | while loop        |        |
-|12   | do         | do-while loop     |        |
-|13   | break      | exit loop/switch  |        |
-|14   | continue   | skip to next it.  |        |
-|15   | void       | no type           |        |
-|16   | static     | static storage    |        |
-|17   | const      | constant value    |        |
-|18   | sizeof     | size of type      |        |
-|19   | struct     | structure type    |        |
-|20   | union      | union type        |        |
-|21   | enum       | enumeration type  |        |
-|22   | typedef    | type alias        |        |
-|23   | extern     | external linkage  |        |
-|24   | register   | register storage  |        |
-|25   | volatile   | volatile var      |        |
-|26   | signed     | signed type       |        |
-|27   | unsigned   | unsigned type     |        |
-|28   | long       | long int type     |        |
-|29   | short      | short int type    |        |
-|30   | default    | default case      |        |
-|31   | goto       | jump to label     |        |
-|32   | break      | exit loop/switch  |        |
-|-----|------------|-------------------|--------|
-
-
-
-
-
-
-
-
-
-
-
-
 -------------------------------------------------------------
 
 */
