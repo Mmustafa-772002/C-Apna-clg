@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Documents/GitHub/C-Apna-clg",
-      "program": "c:/Users/hp/Documents/GitHub/C-Apna-clg/build/Debug/outDebug",
+      "cwd": "e:/Vscode/C-Apna-clg/C-Apna-clg",
+      "program": "e:/Vscode/C-Apna-clg/C-Apna-clg/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
